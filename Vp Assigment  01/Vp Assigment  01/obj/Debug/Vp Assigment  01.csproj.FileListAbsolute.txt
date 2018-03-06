@@ -1,0 +1,9 @@
+C:\Users\AJ\documents\visual studio 2013\Projects\Vp Assigment  01\Vp Assigment  01\bin\Debug\Vp Assigment  01.exe.config
+C:\Users\AJ\documents\visual studio 2013\Projects\Vp Assigment  01\Vp Assigment  01\bin\Debug\Vp Assigment  01.exe
+C:\Users\AJ\documents\visual studio 2013\Projects\Vp Assigment  01\Vp Assigment  01\bin\Debug\Vp Assigment  01.pdb
+C:\Users\AJ\documents\visual studio 2013\Projects\Vp Assigment  01\Vp Assigment  01\obj\Debug\Vp Assigment  01.exe
+C:\Users\AJ\documents\visual studio 2013\Projects\Vp Assigment  01\Vp Assigment  01\obj\Debug\Vp Assigment  01.pdb
+C:\Users\AJ\documents\visual studio 2013\Projects\Vp Assigment  01\Vp Assigment  01\obj\Debug\Vp Assigment  01.csprojResolveAssemblyReference.cache
+D:\Lecture\BSE-6\VP\Ahmed_Enrol-01-131152-046\Vp Assigment  01\Vp Assigment  01\bin\Debug\Vp Assigment  01.exe.config
+D:\Lecture\BSE-6\VP\Ahmed_Enrol-01-131152-046\Vp Assigment  01\Vp Assigment  01\obj\Debug\Vp Assigment  01.exe
+D:\Lecture\BSE-6\VP\Ahmed_Enrol-01-131152-046\Vp Assigment  01\Vp Assigment  01\obj\Debug\Vp Assigment  01.pdb
